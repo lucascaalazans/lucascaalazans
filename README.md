@@ -1,17 +1,22 @@
-### Oiii!! Bem-vindo ao meu git! Sou o Lucas Calazans 🫰
+<div style='text-align: center'>
+  <h2>" Oiii!! Sou o Lucas Calazans🫰 "</h2>
+  <p> 🔭 Tenho 29 anos, sou de Santos-SP, estudante de desenvolvimento web e cloud.</p>
+</div>
+
+<div style='align-itens: center'>
+  <a href="https://github.com/lucasp94">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasp94&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasp9&layout=compact&langs_count=16&theme=radical"/>
+</div>
 
 <div>
-  <a href="https://github.com/lucasp94">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasp94&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasp9&layout=compact&langs_count=16&theme=radical"/>
-</div
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,kubernetes,docker,gcp,aws,css,html,javascript,react,typescript" />
-  </a>
-</p><br>
-
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,linux,kubernetes,docker,gcp,aws,css,html,javascript,react,typescript" />
+    </a>
+  </p><br>
+</div>
+  
 <div>
     <a href="mailto:contato.lucas.calazans@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     <a href="https://www.linkedin.com/in/lucascaalazans" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,7 +32,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
