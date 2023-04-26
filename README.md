@@ -20,6 +20,6 @@
 </div><br>
 
 <div align= 'center'>
-  <a href="https://github.com/lucasp94">
+  <a href="https://github.com/lucascaalazans">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascaalazans&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
